@@ -7,7 +7,7 @@ uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 if uploaded_file:
     image = uploaded_file
 else:
-    image = "car_dataset_real/images/1534.png"
+    image = "example/6857.png"
 
 col1, col2 = st.columns(2)
 col1.image(image)
