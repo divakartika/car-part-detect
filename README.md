@@ -8,7 +8,7 @@ Navigate:
 - `train_model.py`: data wrangling & model training
 - `predict.py`: model prediction (used in `car_app.py`)
 - `video_data_prep.py`: data collection & labeling
-- `car_part_multilabel_classifier_real_v1.h5`: model used for training
+- `car_part_multilabel_classifier_real_v2.h5`: model used for training
 
 Images used for training: [Google Drive](https://drive.google.com/drive/folders/1oIbIOmHgQeVgTjwYQRPqhQ_G2jkLqo0o?usp=sharing)
 

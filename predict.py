@@ -5,7 +5,7 @@ from tensorflow.keras.preprocessing import image
 # --- Configuration ---
 IMAGE_SIZE = (128, 128)
 PART_LABELS = ['hood', 'front_left_door', 'front_right_door', 'rear_left_door', 'rear_right_door']
-MODEL_PATH = 'car_part_multilabel_classifier_real_v1.h5'
+MODEL_PATH = 'car_part_multilabel_classifier_real_v2.h5'
 
 def predict_image(img_path, model_path=MODEL_PATH, class_labels=PART_LABELS):
     """
