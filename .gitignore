@@ -1,0 +1,8 @@
+*_backup
+*.ipynb
+*.zip
+*videos
+*images
+.vscode
+__pycache__
+generate_synthetic_data.py
