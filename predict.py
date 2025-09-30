@@ -1,8 +1,6 @@
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.preprocessing import image
-import os
-import argparse
 
 # --- Configuration ---
 IMAGE_SIZE = (128, 128)
